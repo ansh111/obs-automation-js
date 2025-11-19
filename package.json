@@ -1,0 +1,17 @@
+{
+  "name": "obs-automation",
+  "version": "1.0.0",
+  "main": "obs_automation.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "anshul nigam",
+  "license": "MIT",
+  "description": "JS library to automate OBS using obs-websocket",
+  "dependencies": {
+    "obs-websocket-js": "^5.0.7"
+  }
+}
